@@ -1,0 +1,12 @@
+{
+  "entrypoints": {
+    "Render": {
+      "css": [
+        "/assets/Render.f2d04186.css"
+      ],
+      "js": [
+        "/assets/Render.33a2be3a.js"
+      ]
+    }
+  }
+}
